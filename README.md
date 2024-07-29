@@ -1,4 +1,5 @@
-(you can open this project with git.dev)
+(you can open this project with github.dev)
+
 The project is a machine learning project that predicts the salaries of players will receive based on the hitters baseball data set.
 
 AtBat: Number of times at bat in 1986
